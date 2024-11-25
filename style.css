@@ -1,0 +1,23 @@
+body {
+    background-color: cornflowerblue;
+    width: 700px; 
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 36px;
+}
+
+p{
+    font-size: 24px;
+}
+
+img, video{
+    max-width: 100%;
+    height: auto;
+}
+
+nav li{
+    display: inline-block;
+    margin-right: 40px;
+}
