@@ -1,11 +1,11 @@
 body {
-    background-color: cornflowerblue;
+    background-color: aliceblue;
     width: 700px; 
     margin: 0 auto;
 }
 
 h1{
-    font-size: 36px;
+    font-size: 40px;
 }
 
 p{
@@ -19,5 +19,5 @@ img, video{
 
 nav li{
     display: inline-block;
-    margin-right: 40px;
+    margin-right: 60px;
 }
