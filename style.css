@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+header{
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
 body {
     background-color: aliceblue;
     width: 700px; 
@@ -5,11 +14,28 @@ body {
 }
 
 h1{
-    font-size: 50px;
+    font-size: 50px; 
+    font-family: "Roboto", sans-serif;
+}
+
+h2{
+    font-size: 30px; 
+    font-family: "Roboto", sans-serif;
+}
+
+h3{
+    font-size: 27px;
+    font-family: "Roboto", sans-serif;
+}
+
+figcaption{
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
 }
 
 p{
     font-size: 25px;
+    font-family: "Roboto", sans-serif;
 }
 
 img, video{
@@ -20,4 +46,9 @@ img, video{
 nav li{
     display: inline-block;
     margin-right: 40px;
+} 
+
+footer{
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
 }
